@@ -11,7 +11,7 @@ An ever-growing list of courses, tutorials, repositories, creators, and learning
 |Coursera||
 |edX||
 |**Category: Creators/Instructors**|
-| Evan Peikon |   |   |
+| Evan Peikon |   | GitHub: https://github.com/evanpeikon  |
 | Ming Tang |   |    |
 | Chioma Onyido ||
 |||
