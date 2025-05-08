@@ -31,3 +31,6 @@ Below is a collection of resources that have helped me hone my computational bio
 |Bioinformatics_algorithms|This repository provides a general understanding and implementation of bioinformatics algorithms and the BioPython package.|[Repository](https://github.com/mhtjsh/Bioinformatics_Algorithms)|
 |Happy Belly Bioinformatics|A hands-on and practical resource that provides tutorials and guides on essential bioinformatics skills.|[Website](https://astrobiomike.github.io/all_tutorials/)|
 |Bioinformatics workshop for beginners|This repository contains an overview of fundamental bioinformatics topics.|[Repository](https://github.com/Mo7ammedFarahat/BioinformaticsWorkshop-Jan25)|
+|Bioinformagician tutorials|Bioinformatics tutorials and scripts by youtuber Bioinformagician. Includes tutorial on RNA-seq analysis, VCF file analysis, WGCNA, and single-cell analysis.|[Repository](https://github.com/kpatel427/YouTubeTutorials)|
+|Awesome bioinformatics|A curated repository of free and open-source bioinformatics software, resources, and libraries.|[Repository](https://github.com/danielecook/Awesome-Bioinformatics?tab=readme-ov-file#bioinformatics-on-github)|
+
