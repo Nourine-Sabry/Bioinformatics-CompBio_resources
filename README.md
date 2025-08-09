@@ -1,6 +1,6 @@
 # 💻🧬 Bioinformatics/CompBio resources
 An ever-growing list of courses, tutorials, repositories, creators, textbooks, and learning material for a wide range of bioinformatics and computational biology topics.
-Below is a collection of resources that have helped me hone my computational biology skills 
+Below is a collection of resources that have helped me learn and develop my computational biology skills 
 | Name | Brief description | Link |
 |:-----------------|:-----------------|:-----------------|
 |**Category: Online learning material**|
