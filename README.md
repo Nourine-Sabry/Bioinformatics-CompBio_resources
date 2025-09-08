@@ -34,4 +34,5 @@ Below is a collection of resources that have helped me learn and develop my comp
 |Bioinformatics workshop for beginners|This repository contains an overview of fundamental bioinformatics topics.|[Repository](https://github.com/Mo7ammedFarahat/BioinformaticsWorkshop-Jan25)|
 |Bioinformagician tutorials|Bioinformatics tutorials and scripts by youtuber Bioinformagician. Includes tutorial on RNA-seq analysis, VCF file analysis, WGCNA, and single-cell analysis.|[Repository](https://github.com/kpatel427/YouTubeTutorials)|
 |Awesome bioinformatics|A curated repository of free and open-source bioinformatics software, resources, and libraries.|[Repository](https://github.com/danielecook/Awesome-Bioinformatics?tab=readme-ov-file#bioinformatics-on-github)|
+|Harvard Informatics/Learning bioinformatics at home| Bioinformatics resources gathered by the Harvard Informatics group and other contributors basic and specialized bioinformatics topics online|[Repository](https://github.com/harvardinformatics/learning-bioinformatics-at-home)|
 
