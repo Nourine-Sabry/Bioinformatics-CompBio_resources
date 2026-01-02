@@ -26,7 +26,7 @@ Below is a collection of resources that have helped me learn and develop my comp
 | Chioma Onyido|Chioma Onyido provides useful and helpful tips as well as shares helpful resources for bioinformaticians.|[LinkedIn](https://www.linkedin.com/in/chioma-onyido/)|
 |Dean Lee|Dean Lee shares helpful insights for bioinformatics through his Figure One Lab newsletter and his LinkedIn page.|[GitHub](https://github.com/deanslee) <br/> [LinkedIn](https://www.linkedin.com/in/deanslee/) <br/> [Figure One Lab](https://figureonelab.mykajabi.com/)|
 |Aneesa Valentine/Bioinformatics: The missing semester|Aneesa Valentine writes substack articles on practical bioinformatics methods such as omics data analysis.|[Substack](https://themissingsemester.substack.com/)|
-|**Category: Other repositories/Curated lists**||
+|**Category: Other repositories/Curated lists/Websites**||
 |Learn-Bioinformatics|A curated repository containing bioinformatics and computational biology resources, primarily in English, with some resources also available in Arabic.|[Repository](https://github.com/SaraEl-Metwally/Learn_Bioinformatics)|
 |OSSU Bioinformatics|A self-taught bioinformatics curriculum compiled from free online courses. N.B.: This curriculum is no longer being updated, so some information may not be up-to-date. However, you may still find the knowledge provided helpful.|[Repository](https://github.com/ossu/bioinformatics)|
 |Bioinformatics_algorithms|This repository provides a general understanding and implementation of bioinformatics algorithms and the BioPython package.|[Repository](https://github.com/mhtjsh/Bioinformatics_Algorithms)|
@@ -35,4 +35,5 @@ Below is a collection of resources that have helped me learn and develop my comp
 |Bioinformagician tutorials|Bioinformatics tutorials and scripts by youtuber Bioinformagician. Includes tutorial on RNA-seq analysis, VCF file analysis, WGCNA, and single-cell analysis.|[Repository](https://github.com/kpatel427/YouTubeTutorials)|
 |Awesome bioinformatics|A curated repository of free and open-source bioinformatics software, resources, and libraries.|[Repository](https://github.com/danielecook/Awesome-Bioinformatics?tab=readme-ov-file#bioinformatics-on-github)|
 |Harvard Informatics/Learning bioinformatics at home| Bioinformatics resources gathered by the Harvard Informatics group and other contributors basic and specialized bioinformatics topics online|[Repository](https://github.com/harvardinformatics/learning-bioinformatics-at-home)|
+|Bioinformatics workbook|Hands-on bioinformatics and data analysis tutorials|[Website](https://bioinformaticsworkbook.org/#gsc.tab=0)|
 
