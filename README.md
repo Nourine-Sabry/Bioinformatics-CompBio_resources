@@ -36,4 +36,5 @@ Below is a collection of resources that have helped me learn and develop my comp
 |Awesome bioinformatics|A curated repository of free and open-source bioinformatics software, resources, and libraries.|[Repository](https://github.com/danielecook/Awesome-Bioinformatics?tab=readme-ov-file#bioinformatics-on-github)|
 |Harvard Informatics/Learning bioinformatics at home| Bioinformatics resources gathered by the Harvard Informatics group and other contributors basic and specialized bioinformatics topics online|[Repository](https://github.com/harvardinformatics/learning-bioinformatics-at-home)|
 |Bioinformatics workbook|Hands-on bioinformatics and data analysis tutorials|[Website](https://bioinformaticsworkbook.org/#gsc.tab=0)|
+|DIY transcriptomics|This wesbite covers best practices for RNA-seq data analysis using R/Bioconductor|[Website](https://diytranscriptomics.com/)|
 
