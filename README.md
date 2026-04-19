@@ -37,4 +37,5 @@ Below is a collection of resources that have helped me learn and develop my comp
 |Harvard Informatics/Learning bioinformatics at home| Bioinformatics resources gathered by the Harvard Informatics group and other contributors basic and specialized bioinformatics topics online|[Repository](https://github.com/harvardinformatics/learning-bioinformatics-at-home)|
 |Bioinformatics workbook|Hands-on bioinformatics and data analysis tutorials|[Website](https://bioinformaticsworkbook.org/#gsc.tab=0)|
 |DIY transcriptomics|This wesbite covers best practices for RNA-seq data analysis using R/Bioconductor|[Website](https://diytranscriptomics.com/)|
+|learnbioinformatics|This website offers a curated list of free online resources to learn bioinformatics/computational biology|[Website](learnbioinformatics.org)|
 
